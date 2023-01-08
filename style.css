@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: dimgrey;
+    text-align: center;
+    margin-top: 100px;
+}
+
+header{
+    align-content: space-between;
+}
+
+.yt{
+    margin-top: 20px;
+}
+
+.ttv{
+    margin-top: 20px;
+}
+
+.twtr{
+    margin-top: 20px;
+}
+
+.insta{
+    margin-top: 20px;
+}
+
+.yt:hover{
+    transform: scale(1.2, 1.2);
+    transition-duration: 0.5s;
+}
+
+.ttv:hover{
+    transform: scale(1.2, 1.2);
+    transition-duration: 0.5s;
+}
+
+.twtr:hover{
+    transform: scale(1.2, 1.2);
+    transition-duration: 0.5s;
+}
+
+.insta:hover{
+    transform: scale(1.2, 1.2);
+    transition-duration: 0.5s;
+}
